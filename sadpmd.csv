@@ -1,0 +1,11 @@
+,Background,Acknowledgment,Continuation,dia-continuation,Question-answer complaint Pair,Conditional,Question-answer_pair,Question Extension,Correction,Contrast
+Background,                     8,3,7,8,0,0,3,8,0,0
+Acknowledgment,                 0,86,1,11,0,0,15,5,0,1
+Continuation,                   6,2,40,15,0,0,4,18,0,0
+dia-continuation,               7,10,25,95,0,0,13,23,0,1
+Question-answer complaint Pair, 0,0,0,0,0,0,1,1,0,0
+Conditional,                    0,0,11,0,0,0,0,1,0,0
+Question-answer_pair,           4,22,6,20,0,0,56,14,0,2
+Question Extension,             3,1,14,28,0,1,10,91,0,0
+Correction,                     0,0,1,2,0,0,1,0,0,0
+Contrast,                       1,2,0,0,0,0,2,0,0,4

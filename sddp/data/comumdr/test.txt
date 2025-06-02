@@ -1,0 +1,2888 @@
+0 , Bilakul
+1 , Next year se apaka chaar sal ka ho raha hai to fir ap
+0 , Han han bataie
+1 , Han bolie ap maam
+0 , han
+1 , To main ye kah rahi hun ki agar ap next year se loge to apaka chaar sal ka ho jaega to ap abhi admission kyon nahin le rahe the ap
+0 , Ek sal to apako bachega na abhi
+1 , Is time pe admission ho jaegi
+0 , Kya kah rahe ho abhi
+1 , Abhi is time pe admission ho kaha jaega
+0 , Apaka sikkim manipal men ho jaega apaka admission
+1 , Mam tab bahar men le nahin paunga na
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Thik hai
+1 , main contact kar leta hun unase
+0 , Okay ap
+1 , or kuchh janakari lena chahenge
+0 , Sir vahi janakari lena tha ki matalab saman karane vali gadi bhi Kya ek bar mainne dekha tha video hi
+1 , Motor cycle men matalab sara system bana ke deti hai company se help
+0 , To
+1 , Thoda
+0 , Sa mujhe jarurat bhi thi usi wife ke yeah gadi ki
+1 , To
+0 , Vahi dekh raha tha to shayad men socha ki shayad saman rakhake lane vali bhi gadi banate ho Jaise shayad rahati hai
+1 , Okay thik hai
+0 , carry system sir
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Hello
+1 , Good afternoon
+0 , Good afternoon ji
+1 , Main chirag bat kar raha hu honda big wing sales team se Kya meri bat tushar ji se ho pa rahi hai
+0 , Han
+1 , Sir apane honda website visit ki thi and honda highness c b three fifty bike men interest show kia tha
+0 , Han han ji
+1 , Bahut achchha vehicle dekh rahe hai
+0 , Ap main jan sakata hun kab plan kar rahe hai bike purchase karane
+1 , Ka
+0 , Han
+1 , Okay main jan sakata hun sar ap kab plan kar rahe hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Sir Agar ham renovation ka bat kare to apako kya kya change Karavana hai matalab pura ghar ko karavana hai apako
+1 ,  Yeah
+0 , koi specific jagah jaise kitchen hai apako kitchen ko matalab specifically banwana hai
+1 , Nahin aisa hai ki mainne socha tha ki
+0 , Khud se karava lun
+1 , Mainne kitchen ko
+0 , Carpenter ke
+1 , Carpenter lagake open karava liya Vo bhi
+0 , Jo bhi look dena tha ho sakata carpenter se jitana tha skill or
+1 , Fall ceiling bhi dining space or drying space men mainne karavaya hai Just achchha
+0 , Abhi thode din
+1 , Hue hai bas abhi bas
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Ji main apako bata deta hun isaka jo loan down payment ka offer chal raha hai sir apako t v s down payment starting hai Vo nau hajar panch sau pachapan rupae se
+1 , Nau hajar panch sau
+0 , achchha ji
+1 , or isaki full price Kya hai sir isaka se bike ka
+0 , Ji sir
+1 , Isaka full price kya hai
+0 , Ji kya janana chah rahe hai
+1 , Kimat ka gadi ki puri
+0 , Ki price janana chah rahe hai other city se
+1 , Mara se mara se
+0 , Okay sir
+1 , ap line pe bane rahie main apako check karake bata deta
+0 , Khali do tin
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Hello
+1 , Han bolie sir
+0 , Sir main doctor maulik shri doctor se bat kar raha hun sir
+1 , Han bolie na sir
+0 , Apane jo medicine order ki usaki consultation ke lie call kia hai Sir abhi bat ho sakati hai
+1 , Han main bhi order kia tha bolie
+0 , Sir apane ye sari medicine kisake lie order kia bata sakate hai
+1 , Sushila bunk ka usame nam actually mainne mention nahin kia na thoda bill men ap mention kar dijiega sushila bunk ka
+0 , Yes sir ho jaega
+1 , Or unaki age Or unaki age kya hai sir
+0 , Unaki age hai apaki seventy seven Mainne prescription bhi load kia hai to dekhie
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Hello
+1 , Hi
+0 , This is surgeon I am calling from homelane india most preferred interior branch
+1 , Ok ok sir
+0 , Yes sir we have received an enquiry in the name of naku
+1 , Yes yes yes yes right right right
+0 , Yeah So this is an apartment or independent house sir
+1 , Apartment
+0 , Apartment okay
+1 , what configuration
+0 , Two b h k apartment
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Achchha
+1 , Thik hai
+0 , total apako chalis hajar ath sau rupae padega
+1 , Isase kam men to or koi mushkil hai sir
+0 , Nahin to 
+1 , Ap terah hajar panch sau rupae men bhi nahin kar paoge ek sal
+0 , fir apako isase kam men to kahi nahin mil
+1 , Paega
+0 , Yah kaunasa university hai
+1 , Legal Mushkil university ne bataya na u g c approved university hai
+0 , Thik hai
+1 , Government sector
+0 , Hota hai
+1 , Han bilakul sir
+0 , hota hai Government jo hai government ke dwara approved university
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 15 | 
+0 , timeline is within one week
+1 , you will be having the access once you have the access you will see the banner in your product from there you can request activation so after your request activation within forty eight working days it will be activated
+0 , forty eight working date
+1 , sorry forty eight working
+0 , hours
+1 , so what i am saying is why it is not
+0 , sorry why it is why it is not like easily available
+1 , option ok
+0 , so that is not available because it is currently not fully launched on fires
+1 , so we are still on the phase one so since it is not fully launched it is not available to all the clients on fires so we are ling step by step
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Han ji ji
+1 , Mai bata raha hu
+0 , nahi nahi Ha ha ha g
+1 , S r s at g mail dot com
+0 , Men k k k k
+1 , Han
+0 , Sir ap ek bar check kijiega Last time ka hundred percent gaya hoga do hajar chaubis ka
+1 , Apaka paisa mere mobile men paisa jama ki hamako malum nahin hai lekin mere pas jaega
+0 , Vahi bol raha hu Nahin pahunch aya hoga Main unase bat kar leta hun to kabhi bhi nikali ja
+1 , Do sal ho gaya Do sal
+0 , Ka bhi bond ka bhi issue Nahin hai apake number pe o t p jata hai Or yah hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Like
+1 , Only on it is an of
+0 , So what i wanted to tell you is in case like if i can book a slot that will be fixed for you So on that particular day you can visit in the morning or in the afternoon or evening anything but slot will be booked That is what i
+1 , Have to check
+0 , Check with the family members to right now I give you so message you on this number whenever we all are available and can visit
+1 , Ok ok mam
+0 , like was there any budget plan had made for your home
+1 , So it will be around ten Ten to twelve
+0 , Ok
+1 , Not more than twelve
+0 , Okay maam
+1 , So it will be done whenever you are free You inform us prior day so that i can make an appointment at the showroom
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Hello hello
+1 , Hanji mam Good
+0 , Afternoon I m doctor nikita From doctor ye consultation call hai apane jo pharmeasy order place kia hai
+1 , Unaka nam bataie
+0 , Krishna das
+1 , Krishna
+0 , Ji ji krishna dal
+1 , And age kitana hoga unaka
+0 , Sixty four
+1 , Sixty four
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Mafi chahunga
+1 , Sir maybe abhi dealership pe dusare customer ko assist karane men Busy hai dealership person but ap nishchint rahie apako kuchh samay bad call back aega Dealership ke side se apako information de di jaegi vehicle ke
+0 , Regarding han koi problem nahin hai
+1 , And kya ye sahi samay rahega apase bat karane
+0 , Ka han ek ghante ke bad call karie
+1 , Sir dealership apako directly call karake information de dengi
+0 , Right sir han thik hai
+1 , Thik hai
+0 , Or koi information janana chahate hai bike ke
+1 , Regarding
+0 , yeah jyada late mat karie ek ghante ke bad call kar dijie
+1 , Alright sir
+0 , dealership try karegi apako ek ghante bad call back arrange karane ki sir abhi
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , hello hello please tell me how may i help you today
+1 , han ji
+0 , sir han bolie kaise sahayata kar sakata hun main
+1 , apaki main ka abhi kal fund bhi add kar liya or
+0 , laga rahe hain to reject
+1 , aa raha hai
+0 , okay kshama chahata hun apaki puri sahayata karunga usase pahale apaka pura nam confirmation kara sakate hai
+1 , han ji dile sinh
+0 , yes sinh nam confirmation karavane ke lie to jaise ki ap
+1 , bata rahe hai order place kar rahe hain to order apaka reject ho raha hai na
+0 , jo apana tool ata hai tool bhi nahin dikh raha mere ko dikh
+1 , hi nahi
+0 , ha bolie
+1 , vo tool hote hai two vagaira vo dekh nahi rahe hai mere ko
+0 , okay bilakul main apako guide karunga usake lie bhi no problem thik hai to jaise ki main check kar pa raha hun yahan pe show kar raha hai ki ap apani taraf se jo order place karane ke lie try kar rahe hai vo m c a men rate karane ke lie try kar rahe hai thik hai
+1 , ha ji bilakul committee men trade karane ke lie ap apani
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , Stage
+1 , Construction fast
+0 , okay sir
+1 , Suggest modular
+0 , Counter tops
+1 , Second problem modular modular
+0 , Sir Regarding visit showroom explain
+1 , Showroom
+0 , Okay
+1 , Showroom kaunasi basis
+0 , Two types of kitchen living shining
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Ji
+1 , Mujhe petrol vali chahie tha
+0 , Sir check bhi kafi achchha vehicle hai Ek bar ap isaka test
+1 , Dekhie Kyonki electric bike hai jyada ek sau bis ek sau tis tak baki
+0 , Kafi achchhi range provide ki gai hai battery men warranty bhi available hai
+1 , To main apako better information ke lie suggest karungi ki ek bar ap showroom visit kare
+0 , Vehicle ka test drive leke dekhie warranty ke
+1 , Regarding information apako dealership share kar denge
+0 , Thik hai thik hai dekhata hun
+1 , Sure sir in future koi bhi concern hota hai ap official website visit kar sakate hai check dot com
+0 , Skutar men apana kimati samay dene ke lie dhanyavad apaka din shubh rahe
+1 , Thank you
+0 , Welcome
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Thik hai
+1 , To ek dedh ghante ka bhi time nahin nikal sakate hain sir ap sunday ke
+0 , Lie main bhi to saturday sunday chhutti rahati hai actually madam ka thoda bachchon ka thoda problem rahati hai sir
+1 , Aram se bachchon ko leke aie hamare yahan kafi achchha experience center hai ki room vagera sab hai
+0 , okay
+1 , to koi dikkat nahin hoga proper cash vagaira hai to jaise
+0 , Agar feeding money hai to unake lie bhi feeding belly room hai
+1 , okay
+0 , and agar bachche bhi hai to itane sare bachche log yahan rahate hai khud ki apako koi enjoyment men vo nahin rahati hai bachche khud hi enjoy karate rahate hai
+1 , Ye kaha pe apaka office
+0 , Ye sir i p A joyous small dikha hai apane sector sixty six
+1 , Men sixty six am
+0 , Pm mean hai bar
+1 , Ha ha ha
+0 , vahi pe sir vahi galli ke andar hi apaka a i p l ka joy central hai world mark hai
+1 , Han han
+0 , world mark The
+1 , World mark ke pahale wala jo mall ati hai na i p l
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 18 | 
+0 , Thik hai
+1 , ab m b a ki Agar ap bat karenge to apako university agar ap dekhenge manipal university jaipur provide karate hai
+0 , Thik hai
+1 , unhonne abhi last year abhi start ki
+0 , Hai
+1 , Digital marketing
+0 , Ye specialization start kia Kyonki apako pata digital marketing abhi kafi jyada hai to digital marketing
+1 , Unhonne jo hai start kar di hai
+0 , Thik hai
+1 , Jin bachchon ne pahale bhi admission
+0 , Liya hai
+1 , Vo is bar choose kar sakate hai digital marketing as well
+0 , Thik hai
+1 , Specialization
+0 , Or
+1 , Electric Main apaki bat nahin karunga kyonki ye chije choose karane ke l
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , Yeah sorry can you repeat Apaki voice thodi break ho rahi hai
+1 , Yeah yeah sorry this one is for me for my mother I m twenty five
+0 , Ok so ye medicine apaka hai Right
+1 , Ye wala medicine mil raha hai
+0 , Hai okay yeah yeah yeah okay
+1 , So june right and
+0 , Twenty five
+1 , Twenty five
+0 , okay To kya problem a rahi hai apako
+1 , Vo mere face pe there is an allergy Koi
+0 , Kya
+1 , Galat karane ki vajah se kuchh ho gaya tha to isake lie
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Lenge han bilakul ap kar sakate hai university visit karane ki date nahin rahegi ek chij main apako bata du
+1 , Kafi state ghar jate hai university dur hai ki fraud to nahin ho jaega
+0 , Aisa nahin hai university jain rahegi international university valid rahati hai usaki degree regular ki equate rahegi classes apako online honge Exam bhi apake online honge ap ghar pe baith ke apana dijie complete kar sakate hai
+1 , Okay ok
+0 , ok agar apako nearby chahie to ham nearby university de denge
+1 , but usaki fees cost jyada hoti hai to apane bola tha mujhe budget friendly chahie isalie Main apako bata nahin raha hun usame bis hajar rupae per semester hai
+0 , Twenty thousand
+1 , Six month ki fees Hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 8 | 
+0 , Today possible
+1 , I will tell him monday by monday I will tell him
+0 , Okay
+1 , so present You are staying in sir
+0 , Yeah
+1 , Okay so whitefield showroom
+0 , not electronic city showroom will be near for you
+1 , Okay
+0 , no he works in whitefield so i am planning like he can come now
+1 , He can visit
+0 , ok is the property floor plan is available
+1 , Maam sorry property floor plan
+0 , Four plan
+1 , I dont know I will ask I will tell him today What
+0 , Is the property name You said mam
+1 , Shivani royal heritage
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , Okay
+1 , Okay
+0 , vaise apane college vidya pe enquiry ki thi college vidya online education counselling provide karati hai Main apaki query close kar deti hu dont Worry
+1 , thik hai thik hai
+0 , okay Hello
+1 , Yeah sure
+0 , apaki query close kar rahi hun
+1 , Nahin maam
+0 , kaunase course hai apake pas
+1 , Online mode
+0 , Agar ap graduation level ka course dekh rahe ho to b a
+1 , B b a b a b com and b c a Ye chaar courses apake online mode pe available hoti hai
+0 , Thik hai
+1 , Thik hai
+0 , kaunasi university Se ho ap
+1 , Main college vidya se bat kar rahi hu hamare pas multiple university option available
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , Thik hai
+1 , Kidhar apake branch kidhar hai
+0 , Sir hanuman petrol pump
+1 , Apako
+0 , Ji
+1 , sir hanuman petrol pur road
+0 , Ji
+1 , Achchha achchha achchha
+0 , Yahan se
+1 , thik hai
+0 , Ji sir
+1 , Lo bass se hi lunga
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , good afternoon nitin calling from fire security
+1 , ji
+0 , sir main
+1 , apaka registered email i d pe link bheja hai please check kijie please check kijie mail open karake join section per apako option milata hai mail open karane ke bad join section pay kijie karane ke bad apako mila hai application download kijie customer
+0 , mafi chahata hun jo pareshani
+1 , aa rahi hai apako ek bar apaka nam jan sakata hun
+0 , sir do option aa raha hai operating system puchh raha hai application
+1 , download kijie
+0 , mafi chahunga apako karana hai to karana padega
+1 , hi
+0 , confirm
+1 , kijie ki apaka
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Hello
+1 , Han kaun
+0 , Good afternoon Diveosh bat kar
+1 , Rahe hai
+0 , Yes
+1 , Diveosh main admission counselor college vidya se bat kar raha hun Ayush apane abhi ke lie enquiry raise ki thi currently plan kar rahe hai
+0 , Plan to kar rahe ho
+1 , abhi exam nahin dia mainne city
+0 , Ka apako requirement bhi nahin hai abhi apane matalab apane graduation complete kar rakha hai
+1 , Desh
+0 , han okay
+1 , Online m b a ke lie ap plan kar rahe ho
+0 , Han online mba online
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Okay sir batana chahungi ki apane reliance ek policy li thi do sal pahale
+1 , Okay
+0 , do hajar bais men apane ek policy li thi
+1 , Karake
+0 , To ye policy ke bare men apako sabhi janakari hai isaka apaka Kya labh hai apako kya benefit mil raha hai isamen
+1 , Kya labh hai
+0 , Janakari
+1 , Okay
+0 , koi bat nahin main apako bata deti hun Or main sath hi sath apako mobile pe Main apako isake jo bhi benefit hai Vo main apako s m s bhi kara deti hun sir
+1 , Okay
+0 , sir usase pahale batana chahenge ki apaka apane policy men ek nominee rakha hai apaki wife ko aruna correct na sir han han
+1 , Correct to ye policy men apaki wife knee hai Or unaka apane jo bima amount jo rakha hai vo ek lakh one lakh seventy two thousand approximately Ye apaka bima amount hai
+0 , Okay han han
+1 , Or ye policy apane lie hai das sal ke lie das sal ke lie policy correct das sal ke lie policy liya hai jisame apako premium bharana hai sat sal tak okay Or apane abhi tak jo premium pay kia hai do sal tak
+0 , To abhi apako isamen panch sal kya bol rahe hai kuchh bol rahe ho
+1 , Ap sir
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , Hello
+1 , hello
+0 , saurabh kumar bat kar rahe hai ji
+1 , Han
+0 , Good afternoon dilip
+1 , Bat kar raha hu college vidya se apake number se query
+0 , Hame receive hui hai online course ke regarding
+1 , koi course plan kar rahe hai Kya ji
+0 , Han sir
+1 , Han ji
+0 , Han ji kar rahe the
+1 , Kaunasa course search kar rahe the ap
+0 , B c a kar rahe the
+1 , B c a abhi search kar rahe hai
+0 , Yeah
+1 , bca abhi admission le liya Apane
+0 , Nahin nahin search kar raha tha
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 17 | 
+0 , To ap chandigarh se kar lo na chandigarh se apake pas mail bhi aya hoga login karo main guide kar deti hun form fill up karane men
+1 , Thik hai mam karate ho
+0 , Yeah
+1 , main kurukshetra ka apako details share karu Ek bar Kurukshetra try
+0 , karo ho jaega abhi site sahi hai
+1 , Thik hai mam
+0 , ek bar han ap mail share karo
+1 , Mail bheja hoga karu university se apako
+0 , Dekh rahe
+1 , Maam han check karie
+0 , Hello
+1 , Main ek bar check kar rahi hun
+0 , Han kyonki sir aj hi last date hai admission ka
+1 , Isilie server jo hai busy a raha hoga Kafi student jo hai ek sath apply kar rahe honge isalie a raha hoga Abhi check karo ap apake pas course admission link gaya hoga Link open karake process karie
+0 , Dekh rahi hun
+1 , Han han
+0 , Mila link
+1 , Yeah fir main whatsapp karu Apako nahin mila mam mila na ha login karo Ap
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 18 | 
+0 , To kam kar rahe hai
+1 , Ghar men main abhi duty men aya hun showroom
+0 , Se to apako
+1 , Han han showroom se han showroom se gadi nikal chuki hai
+0 , Thik hai
+1 , kyonki main dusare jagah kam karata hun or number nahin mila tha to main leke nahin aya hun
+0 , But batana chahunga sir number men apako pandrah se bis din ka time lagata hai apake mobile pe
+1 , Vo bata dia gaya tha mere ko showroom men nahin
+0 , Ji ek showroom assign hai apako core men hamari taraf se tools automatic private limited jo ata hai
+1 , Kaunase showroom ka nam dia
+0 , Apane tools automotive private limited
+1 , Nahin mainne vaha se nahin dia hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Okay to ham bilakul pahali pro special hoti hai to interior bhi ham apake according se designer gay to ap
+1 , Mujhe ye bataie apako requirement kya hogi matalab ap complete end to end karavana chahe kuchh specific hai apaki requirement
+0 , End to end rahane
+1 , Ka hai end to end na to sir ham na apako kuchh details main red kar deta hun jo ham end to end Men usually customers ko provide karate hai
+0 , For example modular kitchen Agar ap chaho to usamen ap appliances bhi integrate karava sakate ho thik hai laga log jaise chimney ho gai burner ho gai micro Sir agar apako chahie to thik hai nahin chahie to
+1 , Kalisi modular kitchen bhi options hai usake alava wardrobe ho gai apake bedrooms ke lie karo Ke lie hai na usake sath beds ap le sakate ho fall ceiling lighting wall panelling loft unit sir table site table Ye sari chijen ham customize karate hai Sir isake alava living area men Agar ap chaho to tv cabinet study table ap le sakate hai Yeah office setup Agar apako ghar men kam karavani hai to usake alava ap jitane bhi home deck services hoti hai jaise ki fall sailing lighting wall paper wall panelling ye sari chije ham karate hai bathroom providing
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 6 | 
+0 , Hello
+1 , Hello
+0 , Hello
+1 , Namaskar dinesh ji
+0 , Bolie
+1 , Main mukesh kumar sinh bol raha hun reliance nee life insurance
+0 , Pro se han han
+1 , Apase hamari bat bhi hui thi ek quality ke
+0 , Sir men han apaka ek
+1 , Bima chalata hai na reliance ka guarantee money back plan
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Hello
+1 , Good evening sir
+0 , This is i am calling you from homelane india brand Hope you are doing well
+1 , Han yes bolie
+0 , Sir namaskar Sir actually kya main ek enquiry thi sir home interest ke lie apake ke sath
+1 , To
+0 , Usi ke regarding hamane apako call kia hai to main janana chahunga sir ap kisi prakar ki home interest ap plan kar rahe hai Kya abhi
+1 , Han flight ham dekh raha hun
+0 , Okay okay bilakul sir dhanyavad
+1 , sir apane homelane ko chuna sal na hamare pas abhi ek offer chal rahi hai jisamen ham apako free three design consultation provide karate hai
+0 , Thik hai
+1 , jisamen hoti kya hai ki apaki jo bhi apartment hai sir usaki jo layout hai usako ham three d men design karate hai
+0 , Thik hai
+1 , usame jo bhi apaki requirement rahegi use ham bana kar dikhaeongeo to man ke chalie ap khud ke ghar ko visualise kar paoge sir ki banane ke bad kaise lagegi
+0 , Thik hai
+1 , ap chaho to sir usame apane family ke according ap changes kar sakate ho Apane hisab se personalize kar sakate ho
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , Sir we can do that
+1 , So basically how the process goes in homelane
+0 , Just
+1 , Explain that
+0 , So basically once you come down to the showroom we provide
+1 , You walk
+0 , You get to see all designs and
+1 , Here you
+0 , Get all the wardrobe bedroom and kitchen design
+1 , To
+0 , After the war We provide you with designer senior designer
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Sir
+1 , I cant hear you
+0 , Hello yeah yeah tell me sir
+1 , I have spoke with one of your
+0 , Support team
+1 , Yes yes yes yes actually
+0 , Assigned me
+1 , I am relationship manager so i will be from now single point of contact for you
+0 , Okay okay okay okay your good name
+1 , my
+0 , Name is rahul sir
+1 , Rahul towards h s r
+0 , Okay so where you
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Hello
+1 , Good afternoon manasi bat kar rahi hu honda big wing sales team se line pe customer hai nam unaka hai or vehicle honda high c b three
+0 , fifty hai ap number note kar lijie please ji maam Nine double seven zero two eight nine double seven zero
+1 , Two eight two eight
+0 , Seven two eight four seven to eight four
+1 , Unhe connect kar loo mam line pe
+0 , Hanji mam
+1 , Okay ji line pe bane rahane ke lie dhanyavad hamare dealership on call hai Ap bat kar sakate hai
+0 , Hello
+1 , Hello
+0 , Hello
+1 , Namaskar sir honda beginning se bat kar rahi hun jabalpur se
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , What is your name and what is your mobile number
+1 , My name is your and my mobile number i will give a call from
+0 , Give me call I will show it for you We will I will talk on tuesday morning
+1 , Okay i want to make you one thing like tuesday week off for us and we do work
+0 , I cannot do work on tuesday What is there You take off on wednesday we work on sunday also
+1 , Anyway you give me a call again Share your number mobile number
+0 , Okay
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 7 | 
+0 , Option Usame jo hai apase option Ye puchhega ki ap kaise karenge to jisake madhyam se karana chahate hain upi debit card credit card
+1 , Vo kar sakate hai
+0 , Yeah to ap phone pe use karate ho Na to usame jo hai insurance select karie or fir se
+1 , Itana jyada isamen khul gaya samajh nahin normal phone
+0 , Pay chalate hai na phone pay kholie Phone pay pe
+1 , Usame sirfa policy number dala
+0 , Hota hai pay
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 7 | 
+0 , Hello
+1 , Good afternoon Main bat kar raha hun ke behalf
+0 , Se bolo
+1 , Good afternoon surendra
+0 , Ji
+1 , Meri bat ho pa rahi hai
+0 , Tell me
+1 , Surendra ji apane interest show kia hai k t m due to fifty bike men usake Regarding call
+0 , Hai actually
+1 , I am searching for other like
+0 , Sir you can also You can also purchase vehicle
+1 , Also looking wise similar like field and other vehicles
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Hello
+1 , Hello
+0 , Madam
+1 , Madam namaskar reliance insurance guaranteed policy increasing insurance policy monthly basis
+0 , Payment Maam
+1 , Remember
+0 , Madam icici bank
+1 , Online
+0 , On active online payment pending
+1 , Madam regular payment october november
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Basically ap mujhe tentative bata sakate hai ki ap like kab visit kar sakate hai Like showroom men
+1 , Ap apane family members ke sath men visit kar sakate ho
+0 , Thik hai
+1 , usame
+0 , Matalab koi issue nahin rahata hai or ye bilakul free of cost rahata hai
+1 , Apake lie ap jaise showroom men aenge properly apako ek walk around dia jaega completely sari chijon ka ki is tarike se hamara jo material hai sari chijon ke bare men idea milata
+0 , Hai
+1 , Apako and apako ek idea of idea mil jate hai like interior vagera
+0 , Apako kaise kya proceed karana hai right
+1 , Han
+0 , Ji han
+1 , basically hamare pas weekend men abhi slots hote hai like jaise ap job karate hai business karate hai
+0 , Sir
+1 , Job karata hun
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 14 | 
+0 , Hi bat hai galat to galat hi hai
+1 , Ap phone kar lo ap ke kuchh update ki hai or is bare men mere pas hajar call a chuki hai abhi tak
+0 , To sir apake pas call aenge Vo jo hai apaka call centre se call ate hai apake pas
+1 , To vaha se aenge Thik hai koi nahi
+0 , Main isako update kar de raha hun Baki sir Main yahi janana chah raha tha apase
+1 , Isake andar apako jo policy di gai thi vo panch sal ke turn ke sath di gai thi
+0 , Han or ap
+1 , Quarterly pay karate the isamen right
+0 , Do sal apane pay kia tha
+1 , Isamen tin sal ka premium or baki tha to bas vahi confirm kar raha tha sir
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , And again see we work internally any showroom we work But thing is jp nagar is very near for you and we have more options you can visit
+1 , I stay
+0 , Here
+1 , So it could be again really good if you come here so we can discuss and i can help you out
+0 , So i am already ok
+1 , you are
+0 , Going You are going to h s r right
+1 , Now
+0 , Yeah i am going to h s r right now
+1 , Okay okay okay
+0 , So what
+1 , Is your requirement sir
+0 , I will inform some designer over there so they will help you out not an issue
+1 , I already shared everything regarding my requirement
+0 , okay okay
+1 , Okay i will tell you
+0 , So we are consulting total first floor Second floor is commercial
+1 , Okay okay
+0 , Above that we are kashtan and play resident
+1 , Okay okay
+0 , The requirement
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 21 | 
+0 , Hello hello good evening sir main doctor main doctor sanjay bol raha hun docstat se or pharmeasy men apaka medicine ka order aya
+1 , Hai hanji hanji hanji
+0 , Isamen
+1 , Strip of ten tablet
+0 , Strip of ten
+1 , Or hold strip of ten capsule
+0 , Right right Ye order kia hai apane
+1 , Right
+0 , patient ka patient ka nam jan sakata hun
+1 , suman sharma Hai
+0 , Suman sharma right right ikatis
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Two zero one three zero five
+1 , Yes sir like noida its seventeen kilometer it is showing
+0 , And let me check the greater noida sir one second
+1 , Yeah greater noida is like seventeen kilometers It sorry fifteen kilometers It showing greater
+0 , Almost in between i believe
+1 , Yes yes sir
+0 , fifteen and seventeen kilometer
+1 , Okay like you can visit Like greater noida showroom sir its a fifteen kilometers only
+0 , You send me both This because sector four is from my present place of resident to when i go to my This place in noida sector four falls in between
+1 , Ok
+0 , So its on my way only so it will be easy for me to visit sector four So its better you provide me both the address
+1 , Okay
+0 , send me through text me and i will ensure like which one to visit
+1 , Sa and then i will For the dock ok
+0 , Sure sir
+1 , like i will tell you because i can share the to address I will share you that but i can fix only one showroom apartment because of we are working on the apartment in our experience center showroom sir
+0 , Ok i shared both the address Like like which is your convenient You can let me know sir
+1 , like i will I will book the same
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 18 | 
+0 , Hello
+1 , Hello sir se bat ho rahi hai
+0 , Han bolie
+1 , Kumar bat kar raha hun Reliance insurance Call kia sir ek policy barah hajar nau sau
+0 , Isi ke regarding call kia tha policy jo apaki hai reliance insurance ka patna branch men apane liya hua policy isi month men policy ka premium date hai
+1 , Usake regarding call kia tha
+0 , Abhi tak ap logo ne do sal jama kare koi fayada kya kare
+1 , Apaka aya hai mere pas do sal jama karate hai usaka bhi nahin hai
+0 , Aise koi kam hota hai
+1 , Paisa lene ke lie fon kijiega
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Hello
+1 , Hello
+0 , Kaun
+1 , Good morning Her agarwal bat kar rahe
+0 , Hai Han
+1 , ji
+0 , Ji main
+1 , Vikas bat kar raha hun College vidya se academic counselor
+0 , apaki enquiry receive hui hai online course ke lie ap koi course search kar rahe hai online men
+1 , Sir p c a b c a
+0 , Yes sir
+1 , ok
+0 , To kab tak admission lene ka plan kar rahe
+1 , Ho ap sir
+0 , do chaar din men
+1 , thik hai to
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , jaie main ek bar check kar leti hun
+1 , okay
+0 , ek bar or apako sign karane ke lie bol raha hoga sign for non ki are hai continue pe click kariye
+1 , han han okay
+0 , maam fir se apana aadhaar card number enter
+1 , karie or o t p ko verify karie
+0 , achchha dobara karana hai
+1 , ye do bar karana hai okay
+0 , ho gaya
+1 , kya pata
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Chandra   000138 Kyonki dekhie aj ka ye last hi date hai apaka admission ke lie
+1 , Aj ke bad admission nahin hoga do hajar chaubis vale session ka
+0 , thik hai
+1 , to ek university hai mere pas yupi ki hi hai apaka
+0 , Men thoda location apane suna hoga mode we one ka
+1 , Nam ji ji
+0 , Mathura men apaki university located hai thora chhata men lagata hai apaka
+1 , thik hai
+0 , and university ka nam rahega sanskriti university
+1 , Ji jisamen ap classes online le sakate ho exam apako ake campus men dena hota hai her chhe mahine men tin dinon ke lie apako ana hoga friday saturday and sunday
+0 , Ji
+1 , Thik hai class ap
+0 , Her mahine men ana padega
+1 , Nahi nahi her chhe mahine men her semester men ek bar
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 14 | 
+0 , Hello sir mafi
+1 , Chahunga last call technical issue ke karan se disconnect ho gaya tha Dipanshu ji se bat ho pa rahi hai
+0 , Meri han ji
+1 , Vince ji apane interest kia hai bajaj ns twenty five bike men usake regarding call
+0 , Hai han kya
+1 , Kah rahe hai ap
+0 , Sorry
+1 , Main samajh nahin pa raha kya kahana chah
+0 , Rahe hai
+1 , are google pe dekha tha google pe dekha tha
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Kar leti hun Abhi
+1 , Han
+0 , ek men isamen tutorial video bhi hai real to use Dekh ke bhi ap bana sakate ho
+1 , My account ka option dikh raha hoga
+0 , Pe jake login karo mobile ke
+1 , Agar ap chahe agar ap kar sakate ho to main apako mujhe o t p share kar dena
+0 , Main kar deta hun yahan pe
+1 , Pan aadhaar are
+0 , Mobile mobile ke through karate hai login
+1 , Mobile
+0 , Number mobile number batana
+1 , Eight five
+0 , Ek second Eight five
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Ok
+1 , Han
+0 , Thik hai ji main
+1 , Apake whatsapp pe is vehicle se related bro product image and technical specification send karane ka try karata hun ap apane nam se kharidenge vehicle ko
+0 , Han
+1 , Ap use karenge
+0 , Kya
+1 , Ap istemal pe lenge Vehicle ko ap hi chalaenge
+0 , Chalaenge to sab log ap
+1 , Okay to sir
+0 , Primary use ap hi rahenge is vehicle ke right
+1 , Okay
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Ha to ye chij hai apaka vaise Main abhi dekh leti hun kuchh university men
+1 , ho jaise ki abhi close na hua ho ap continue kar sakate ho right do hajar chaubis vale session men
+0 , Thik
+1 , Hai
+0 , main ek bar check kar leta hu
+1 , Han ek bar
+0 , Ap call pe hi rahie bivi ke lie karana hai na
+1 , Apako
+0 , ji ji ji han
+1 , Thik hai
+0 , main ek bar dekh ke batati hun ek minute ap call pe hi rahie
+1 , Shoolini university hai
+0 , Ji
+1 , mam
+0 , Han jo apako provide kar rahi hai Ek minute mai dekh leti hu usame bibi hai
+1 , Yeah nahin hai
+0 , ek minute ap call pe rahie
+1 , B b a
+0 , B
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 19 | 
+0 , Vishal ji ap mujhe apaka koi alternate number share kar paenge agar primary number pe call connect nahin hota dealer pe call kar sakate hai
+1 , Apako
+0 , ji ji
+1 , Aisa koi dusara number hai apaka
+0 , Six two
+1 , Six two
+0 , Eight four
+1 , Eight four
+0 , Six four
+1 , Six four
+0 , Seven six
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Matalab mere yahan pe jo bhi usaka chij banega i am giving you the flat ten years of warranty
+1 , Okay
+0 , So that is because vo kya hota hai On side men kam hai na
+1 , Painting work karake ek chij hota hai painting showroom aega na main apako different samajha dunga sir
+0 , what is the carpenter work and what is the modular finish work
+1 , Usame finish men Kya difference ata hai finish men apako site men nahin karake de sakata hun sir Actually
+0 , That is the only
+1 , Okay
+0 , One more thing One more thing concern is not question Also red on that advertisement phase you also provide zero percent emi
+1 , So what how it work
+0 , I tell you sir zero percent emi Basically kya hota hai sir ek certain percentage hota hai
+1 , Jo company ko pay karana padata hai to zero percent interest hota hai na vo hamare pas available hai sir
+0 , Vo option hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , To abhi ap kahi pe job nahin kar rahe ho
+1 , Nahin abhi job nahin kar raha
+0 , Hun
+1 , Okay no issues to twelfth kis year men vaise apane complete kia tha
+0 , Twelfth mainne aj hi kia tha
+1 , Is year men complete kia tha
+0 , Mainne twelfth kia tha atharah men
+1 , Atharah usake bad apaki percentage vagera kya hai twelfth men
+0 , Twelfth men mera sixty pura tha
+1 , Sixty tha
+0 , Sir Ap bata rahe hai apane b a bhi kar rakha hai right
+1 , B bhi kar rakha
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Anna nagar
+1 , Anna nagar So basically how the process works is like are you fixing an appointment to that one experience center Date and time you can choose it according to your
+0 , Preference We are available from morning eleven to evening eight o clock all the days Only on tuesday we are closed So even on saturday and sunday
+1 , Only tuesday
+0 , Closed mam
+1 , Closed
+0 , okay okay So
+1 , All the days we are working yes mam saturday sunday also we are working
+0 , Ok ok
+1 , So basically when you visit our experience center first you will be having a walk through through our experience center la sales manager who is allotted to you So basically have modular kitchen setup living room setup bedroom set up every kind of wardrobe and each and every sample materials are also available So once you get a clarity about all this interior materials and everything next you will be having a meeting wit
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Hello hello
+1 , Han bolo na ji Good
+0 , Morning Main rahul bat kar raha hun college vidya se kal
+1 , bhavan mohit ji se bat ho rahi hai
+0 , Han han
+1 , Bolie akla ji apaki enquiry receive hui thi diploma course ke lie Kya ap diploma karana chahate hai
+0 , Han han han
+1 , Ok
+0 , Kaunase course se diploma karana chahate
+1 , Hai ap ye apana
+0 , Ye hai na actually vo dead ka dead
+1 , Did
+0 , Han han han
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Media
+1 , Service
+0 , Thik bank a nake guide kar dete pare bank ki tu a nake free service dete pare na
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 3 | 
+0 , Kab se le rahe hai ye medicine
+1 , Jab bhi matalab jab jarurat hoti hai Na dekho ek bat Main bolati hun apako clear ye jo bhi hai na vo aisa kuchh nahin hai Agar kisako kuchh nahin hai or khaya to abhi kuchh nahin hoga
+0 , Lekin for your time information Vo aisa nahin hai ki aj khaya kal nahin khaya abhi ham logon ne ye week men khaya barabar
+1 , Abhi we are going out of town to hamako Carry karana hi hai na agar udhar suddenly hua kuchh or udhar available nahin hai to kidhar jayenge
+0 , Ji
+1 , You get my point Mere pas mere pas pharmacy se consult karane ke lie bola gaya na ye consult nahi
+0 , Nahi
+1 , Nahin c c c c
+0 , Ek ek important thing hoti hai kabhi bhi main aise nahin kisi ne bhi apake pas se kuchh manga to apaki jab tak clear nahin hoti ap dena nahin kisako
+1 , Isase ap
+0 , Puchhate ho achchhi achchhi bat hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , Milata hai Sir Ham bat kar rahe hai
+1 , han ji
+0 , Hello
+1 , Hello ji tivari ji
+0 , Han sir
+1 , Bolie na
+0 , main bat kar raha hun
+1 , Main ashish bat kar raha hun reliance river branch se
+0 , Han han bolie na sir
+1 , Actually mam ke nam ki policy apane liya tha to usaki february month se premium jama nahin ho pi hai three thousand
+0 , Ki hai na han
+1 , Thousand three hundred ten rupees ki hai
+0 , Actually pata hai kya sir main jama karane ke lie gaya tha mere ko thoda ho gaya tha to unhonne bataya tha sign vagaira kuchh chahie usaki vajah se ruk gaya hai to
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Or apaki
+1 , Hanji
+0 , Apaki mother ko doctor ne jab bataya tha apane to unhonne kuchh aisa kuchh bataya tha blood nahin time pe
+1 , Han vo matalab ye sab unako se Actually vo mere died doctor se pahale vo gujar gae abhi tin chaar mahine pahale vo bhi sab davai hamari rahati thi vo hai or hamare family doctor heard doctor hai bombay men abhi shift ho gae to unako bhi davai yahan se show kar rahe
+0 , Vo mere ko jyada main medical ka nahin hun to mujhe jyada pata nahin hai
+1 , Apaki wife ka age bata dijie
+0 , Sorry sir ek minute
+1 , Wife ka age
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 8 | 
+0 , Sir dekho agar ap kisi ko bata ke bata rahe ho bata ke kar rahe ho to her university
+1 , her company chhutti rahati hai Agar ap bina batai kar rahe ho to nahin degi
+0 , Lekin apako jo mail aegi vo ek mahina pahale aegi to tab ap jaise hi mail aegi vaise bata dena unhen
+1 , Ap bata ke karoge jab apako chhodani hi hai na to ap unhe bata ke batana ki tin din ke lie main chhutti lunga
+0 , Apako to company chhod nahi hai na
+1 , Apako to company chhodani hai na to tin din ke lie apako chhutti degi vo aram se
+0 , Thik hai
+1 , mam
+0 , Apake pas time thoda aisa hi hai
+1 , Kam hai to ap mujhe bata dijie abhi finally ki ap kitani der men final kar rahe hai
+0 , Kyonki bar bar Ap hai
+1 , Aj to nahin ho paega kyonki bat karana padega mereko manager
+0 , Se to registration kara lo kal main apaka process kara dungi
+1 , Usake bad Fir nahin milega to kuchh problem hoga to vahi dikkat
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 14 | 
+0 , Hello
+1 , Hello
+0 , Doctor prasad bol raha hun ye jo davai mangai hai pharmeasy se usake regarding call hai
+1 , Han bolie sir
+0 , Ye jo sugar ki davai glimy m or gluco pe mangai hai patient ka nam kya hoga
+1 , Patient ka nam
+0 , Shekh saru
+1 , Shekh saru shekh saru ji ki umra kya hai
+0 , Thirty six
+1 , Ek second
+0 , Unake doctor se regular milate hai
+1 , Na
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Isamen kya hota hai
+1 , Sir apako ek designer assign kia jata hai meeting ke lie like
+0 , Vo designer apako pahale to ek walk around deta hu showroom ka apako pura explain karate hain ki like kya material ham provide karate hai kya quality
+1 , Hai
+0 , Thik hai
+1 , Then usake bad men apaka jaise floor plan available hoga
+0 , Apake pas right
+1 , Thik hai
+0 , Floor plan ke accordingly Hamare pas ek software hota hai space floor
+1 , Ka to
+0 , Sari chije material vagaira dikhane ke bad men jo apake floor plan ke according software hai jo bhi apaka matalab requirement hota hai like jaise apako living room
+1 , Men
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , You have already decided with university Then let me explain you the fees structure once brief right so that you can have one details Just a minute i am checking the details
+1 , In which field you are working
+0 , In
+1 , Which field you are working
+0 , Flipkart
+1 , Ki logistic you
+0 , Yeah yeah yeah yeah logistic
+1 , Okay okay
+0 , Fine
+1 , So see for b c a program bachelor your semester fees will be twenty two thousand five hundred ok
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Ji ji bilakul main apako Main batana chahunga finance jo hai totally depend karata hai cibil score or banking profile per sir
+1 , Down payment emi or interest rate ke regarding janakari apako dealership provide kar paenge main isi call per finance related janakari ke lie apaki dealership se karava dunga sir jisase ki ap janakari jan paenge sir
+0 , Okay
+1 , Okay
+0 , Mam and jaise ki apane bataya one month men ap plan kar rahe hai sar to january mid men ap plan
+1 , Kar rahe hai january or february
+0 , Okay january end of february start
+1 , Jain men
+0 , Ok and main apako first of all apaki nearest dealership bata deta hun main jan sakata hun kis city or state se ap plan kar rahe hai bike purchase karane ka main
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 9 | 
+0 , Vo to thik hai Sir definitely ham visit karenge
+1 , but usake pahale apake pas apake ghar ka ek floor plan hai Kya
+0 , Kya kah rahe hai
+1 , Floor plan hai Kya apake pas apake ghar ka ek layout hai Kya floor
+0 , Plan
+1 , Achchha layout
+0 , Ji layout layout mil jaega banaya tha na
+1 , Ha ha ha leke bhej sakata hun
+0 , Ok
+1 , to kindly ap ek bar layout ko share kariega
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Yeah okay to dekhie vo healthy diet unako mention kia hua hai doctor ne jo unako bataya hua hai usi ke accordingly chalana hai to unako sabase Jyada important hai unako exercise karani chahie
+1 , Morning walk evening walk Jyada important hai
+0 , Ji
+1 , Ap bat kara dijie unase
+0 , Han maam
+1 , Hello Yes apako ek to exercise morning walk and evening walk karana chahie and fruit vegetable
+0 , Okay han han han bolie
+1 , apane diet ka dhyana rakhana hai apako achchhe se han
+0 , Okay ap karate hai morning
+1 , han karate hai lekin utana nahin jitana hona chahie jaise
+0 , Do kilometer chalana chahie
+1 , Utana nahin kar pate hai kilometer kilometer is tarah se karate hai itana jitana apase hota hai
+0 , Ap utana hi kariega
+1 , Okay
+0 , Vahi bat hai jyada ham nahin kar pate hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 15 | 
+0 , Ha ji
+1 , Avaj clear nahin aa rahi hai
+0 , Ji payment ap tis sitambar tak kar lijie kyonki apaka chaudah sitambar ka date hai next month aega to late fees bharana pad jaega Na
+1 , Ji
+0 , Ji
+1 , Mainne apako ek message bhi kia
+0 , Hai
+1 , Jisake madhyam se ap plan detail bhi dekh sakate hain or chahenge to ghar baithe online payment kar sakate hai jisamen ap agar debit card bhi use karate honge
+0 , To usake madhyam se bhi kar sakate hai Jisase ki apako samay mil jayega usaka payment karane ka bhi
+1 , Thik hai
+0 , To abhi policy men kisi prakar ki koi samasya to nahin hai na or jaise email id updation
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 11 | 
+0 , ok but only today i am not able to add it because i dont see the money in my account in my account okay okay i
+1 , dont see the money here also
+0 , in five also
+1 , really sorry no need to worry may i know what time have
+0 , you done this transfer
+1 , around nine o clock in the morning let me around thirty nine thirty okay
+0 , thank you for the details so kindly request
+1 , you to wait okay because by the end of the day cancellation procedure will happen ok in that case what happens is like if the particular amount is reflecting from our end so you will be able to say effecting
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 8 | 
+0 , Hello Hello sir se bat ho rahi hai
+1 , Han good evening
+0 , Main vikas kumar Bat kar raha hun sir reliance patna branch se
+1 , Hello ap jis vyakti se bat kar rahe hai unhonne apake call ko hold per rakha hai kripaya line per bane rahe The person you are speaking with has put your call on hold Please stay on the line
+0 , Ap jis vyakti se bat kar rahe hai unhonne apake call ko hold per rakha hai kripaya line per bane rahe The person you are speaking with has put your call on hold Please stay on the line
+1 , Ap jis vyakti se bat kar rahe hai unhonne apake call ko hold per rakha hai kripaya line per bane rahe The person you are speaking with has put your call on hold Please stay on the line
+0 , Ap jis vyakti se bat kar rahe hai unhonne apake call ko hold per rakha hai kripaya line per bane rahe The person you are speaking with has put your call on hold
+1 , Please stay on the line Ap jis vyakti se bat kar rahe hain unhonne apake call ko hold per rakha hai kripaya line per bane rahe The person you are speaking with has call on hold Please stay on the line
+0 , Ap jis unhonne apake call ko hold hai kripaya line per bane rahe The person you are speaking with has put your call on hold Please stay
+1 , Hello
+0 , Han
+1 , bolie sir vikas kumar bat kar raha hun apase reliance insurance patna branch
+0 , Bolie sir
+1 , call kia sir ek policy apaki hai june june
+0 , Or ye sir government plan hai ten twenty apaka chhe sal jama karake apaka pachas dedh sau din se
+1 , Ye ranu ji ke through chal rahi thi policy apaki han to ye sir abhi apaka late fees bis tak fifty percent off chal raha hai karake abhi solah hajar tirasi rupae ka apaka premium hai aj ke date men
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 16 | 
+0 , Matalab next medicine
+1 , Yeah yahi
+0 , Nahin abhi ye pura course khatam ho jaega na ek mahine ka ek yeah dedh mahine ka Jo bhi hai usake bad vapis se Agar main order karane jaunga
+1 , To mujhe vapas se prescription or ye consultation karana padega kya
+0 , Ap jab bhi
+1 , Matalab next order jab pharmacy per karenge na to consult karana hi padega
+0 , Achchha achchha every order pe consult karana hi padega
+1 , Ji ji
+0 , Ji every order
+1 , Okay okay
+0 , kyonki
+1 , Isamen ye rahata hai na ki kuchh log hote hai bahut sari medicine order kar dete hai
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 12 | 
+0 , Us time pe bhi ek doctor apako fon aya tha
+1 , Unhonne mere se pura details to le liya lekin main kuchh puchhane wala tha usase pahale unhonne phone kat dia
+0 , Ap mujhase puchh lijiega
+1 , I dont know apaka case submit nahin ho paya hoga
+0 , Dobara aya hai isalie
+1 , Unhonne submit kar dia unhonne dusara nahin kia mangavaya
+0 , Achchha do mangavae the apane
+1 , okay Okay
+0 , Do hai na mam alag alag mangavae
+1 , The
+0 , Han
+1 , Achchha
+0 , Han to bolie meri
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Year
+1 , Okay and
+0 , b p ke lie hi lena hai apako
+1 , Yes maam
+0 , or
+1 , Kisi university ke lie ap lena chah rahe the kisi university ke lie bat hui hai Apaki
+0 , Mam is time pe to main preparation kar raha c t c t ke base pe ho jata hai to thik hai
+1 , nahin to fir private
+0 , Ok thik hai
+1 , to apako to pata hi hai na ki next year se next session kyonki start bhi ho chuki hai bahut sari university close ho chuke honge Agar apako pata hoga to bahut sari university already closed hai
+0 , Matalab ab next session ke lie start ho raha hai
+1 , Right
+0 , yes mam
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 13 | 
+0 , Usame twenty thousand ke upar higher partying hai jo unake mostly you ke se great kyonki ye agar ham i t ki bat karate hai to jain a plus plus aise u g c kisi university ko nahin jaise hi kyonki unhen ye sari chije vaha per pata nahin padati hai ki hamane a plus a plus
+1 , Yeah
+0 , kisi ko ek double plus kyon dia hai Kyonki vo sare norms ko certified karate hai usamen bahut sare unake parameters hote hai u g c check karati hai Pahala to hota hai unaki teaching ji
+1 , Vo teaching jo de rahi hai university Kyonki apane n C R T
+0 , hai
+1 , tools hai later version ke tools apako samajh men a raha hai ki
+0 , nahin a rahe hai
+1 , Agar ap coding nahin kar pae kyonki ap i men ja rahe ho bahut important chij hoti hai
+0 , Without understanding men ap ekadam naya placement nahin ho pati kyonki vaha per apako jab bhi placement hogi to apako kuchh vo de denge techniques denge ki ap ye karake dikhaie
+1 , Agar vo kar hi nahin paenge to kaise apako achchhi placement honge
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 
+0 , Okay ap apaka medicine confirm kar lijiega apane Order kia hai gaba nurin hundred m g by five
+1 , Second ek second ek second aram se dhire dhire mother ko bolie
+0 , Gaba nurin hundred m g by five
+1 , Ye apane order kia hai gaba neuro merrill one mg diet Forty m g
+0 , Pan d strip
+1 , Low clear
+0 , Forty m g
+1 , Eco sprin seventy five m g
+0 , Telma forty m g and shilka five hundred m g Total apane nine medicine Order kia hai
+1 , right
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+dummy
+-1 | 10 | 

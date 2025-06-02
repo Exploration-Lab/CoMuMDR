@@ -1,0 +1,11 @@
+,Background,Acknowledgment,Continuation,dia-continuation,Question-answer complaint Pair,Conditional,Question-answer_pair,Question Extension,Correction,Contrast
+Background                      ,3,1 ,0,3 ,0,0,1 ,1,0,0
+Acknowledgment                  ,1,24,0,6 ,0,0,6 ,0,0,0
+Continuation                    ,2,1 ,0,3 ,0,0,2 ,0,0,0
+dia-continuation                ,3,10,0,38,0,0,4 ,0,0,0
+Question-answer complaint Pair  ,1,0 ,0,1 ,0,0,1 ,0,0,0
+Conditional                     ,0,0 ,0,0 ,0,0,1 ,0,0,0
+Question-answer_pair            ,2,10,0,5 ,0,0,19,0,0,0
+Question Extension              ,0,0 ,0,2 ,0,0,2 ,1,0,0
+Correction                      ,0,0 ,0,0 ,0,0,0 ,0,0,0
+Contrast                        ,0,0 ,0,0 ,0,0,0 ,0,0,0

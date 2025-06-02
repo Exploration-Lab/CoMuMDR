@@ -1,0 +1,51 @@
+Method,Model,Epoch,F1
+Link only, Struct-aware,1,0.953
+Link only, Struct-aware,2,0.953
+Link only, Struct-aware,3,0.953
+Link only, Struct-aware,4,0.953
+Link only, Struct-aware,5,0.953
+Link only, Struct-aware,6,0.953
+Link only, Struct-aware,7,0.953
+Link only, Struct-aware,8,0.953
+Link only, Struct-aware,9,0.953
+Link only, Struct-aware,10,0.953
+Link only, SSP-BERT + SCIJE,1,0.9463
+Link only, SSP-BERT + SCIJE,2,0.953
+Link only, SSP-BERT + SCIJE,3,0.9531
+Link only, SSP-BERT + SCIJE,4,0.9531
+Link only, SSP-BERT + SCIJE,5,0.9531
+Link only, SSP-BERT + SCIJE,6,0.9483
+Link only, SSP-BERT + SCIJE,7,0.9519
+Link only, SSP-BERT + SCIJE,8,0.9531
+Link only, SSP-BERT + SCIJE,9,0.9531
+Link only, SSP-BERT + SCIJE,10,0.9506
+Link only, SDDP,1,0.8054
+Link only, SDDP,2,0.8054
+Link only, SDDP,3,0.8099
+Link only, SDDP,4,0.7964
+Link only, SDDP,5,0.7918
+Link + relation, Struct-aware,1,0.3465
+Link + relation, Struct-aware,2,0.3706
+Link + relation, Struct-aware,3,0.3827
+Link + relation, Struct-aware,4,0.4091
+Link + relation, Struct-aware,5,0.4067
+Link + relation, Struct-aware,6,0.4392
+Link + relation, Struct-aware,7,0.4296
+Link + relation, Struct-aware,8,0.4271
+Link + relation, Struct-aware,9,0.4368
+Link + relation, Struct-aware,10,0.4332
+Link + relation, SSP-BERT + SCIJE,1,0.4175
+Link + relation, SSP-BERT + SCIJE,2,0.4596
+Link + relation, SSP-BERT + SCIJE,3,0.5451
+Link + relation, SSP-BERT + SCIJE,4,0.5439
+Link + relation, SSP-BERT + SCIJE,5,0.5451
+Link + relation, SSP-BERT + SCIJE,6,0.5451
+Link + relation, SSP-BERT + SCIJE,7,0.5487
+Link + relation, SSP-BERT + SCIJE,8,0.5547
+Link + relation, SSP-BERT + SCIJE,9,0.5415
+Link + relation, SSP-BERT + SCIJE,10,0.5487
+Link + relation, SDDP,1,0.2624
+Link + relation, SDDP,2,0.2624
+Link + relation, SDDP,3,0.2895
+Link + relation, SDDP,4,0.2714
+Link + relation, SDDP,5,0.3031
