@@ -1,6 +1,6 @@
 # CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse paRsing in conversations
 
-[![GitHub](https://img.shields.io/badge/GitHub-Exploration_Lab_CoMuMDR-white?logo=github&style=flat-square)](https://github.com/Exploration-Lab/CoMuMDR)
+[![GitHub](https://img.shields.io/badge/GitHub-CoMuMDR-white?logo=github&style=flat-square)](https://github.com/Exploration-Lab/CoMuMDR)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange?logo=HuggingFace&style=flat-square)](https://huggingface.co/datasets/Exploration-Lab/CoMuMDR)
 [![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red?logo=arxiv&style=flat-square)]()
 
