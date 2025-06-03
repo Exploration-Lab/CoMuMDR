@@ -1,7 +1,8 @@
 # CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse paRsing in conversations
 
+[![GitHub](https://img.shields.io/badge/GitHub-Exploration_Lab_CoMuMDR-white?logo=github&style=flat-square)](https://github.com/Exploration-Lab/CoMuMDR)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-orange?logo=HuggingFace&style=flat-square)](https://huggingface.co/datasets/Exploration-Lab/CoMuMDR)
-[![Arxiv](https://img.shields.io/badge/Arxiv-Paper-blue?logo=arxiv&style=flat-square)]()
+[![Arxiv](https://img.shields.io/badge/Arxiv-Paper-red?logo=arxiv&style=flat-square)]()
 
 ## Introduction
 We present a novel code-mixed multi-modal multi-domain corpus for discourse parsing, named CoMuMDR. This corpus is designed to facilitate research in discourse parsing across multiple languages, modalities and domains, specifically focusing on code-mixed (Hindi + English = Hinglish) data. This repository contains the code for our paper on **CoMuMDR: Code-mixed Multi-modal Multi-domain corpus for Discourse paRsing in conversations**. The paper presents and compares various baseline modeling approaches for discourse parsing on CoMuMDR and popular discourse datasets, used in prior research.
